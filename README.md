@@ -1,12 +1,12 @@
 <div align="center">
-<h1> :wave: Hi, I’m @matiral </h1>
-<p> A high school student trying to gradually learn to code ❤ </p>
+<h1> :wave: Hi, I’m @matireal </h1>
+<p> Im a high school student and graphic designer </p>
   
 <h1> :grey_question: About </h1>
   <p> :label: My name is Berk </p>
-  <p> el I am new developer </p>
+  <p> 🤞 I am new developer </p>
   <p> 🏁 I live in Turkey </p>
-  <p> 💻 Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
+  <p> 💻 Favorite programming language <a href="https://discord.gg/codesty"> Javascript </a> </p>
 
 
 <h1> ✍ Technologies I use </h1>
