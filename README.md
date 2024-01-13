@@ -10,4 +10,4 @@
 
 
 <h1> ✍ Technologies I use </h1>
-<img src="https://skillicons.dev/icons?i=js,nodejs,mongodb,html,css,vscode,discord,c#&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,discord,cs&theme=dark" />
