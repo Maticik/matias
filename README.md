@@ -4,10 +4,10 @@
   
 <h1> :grey_question: About </h1>
   <p> :label: My name is Berk </p>
-  <p> :nerd: I am new developer </p>
-  <p> :flag_white: I live in Turkey </p>
-  <p> :desktop: Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
+  <p> el I am new developer </p>
+  <p> 🏁 I live in Turkey </p>
+  <p> 💻 Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
 
 
 <h1> ✍ Technologies I use </h1>
-<img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,mongodb,html,css,vscode,atom,discord,c#&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,mongodb,html,css,vscode,discord,c#&theme=dark" />
