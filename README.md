@@ -9,5 +9,5 @@
   <p> 💻 Favorite programming language <a href="https://discord.gg/codesty"> Javascript </a> </p>
 
 
-<h1> ✍ Technologies I use </h1>
+<h1> ✍ I now this languages </h1>
 <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,discord,cs&theme=dark" />
